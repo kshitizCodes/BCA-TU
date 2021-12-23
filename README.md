@@ -62,7 +62,7 @@
 | :---: |                   
 | Applied Psychology | 
 | Knowledge Engineering |
-|  Geographical Information System | 
+| Geographical Information System | 
 | Advanced DotNet Technology  |
 | IT in Banking | 
 | Database Programming |
