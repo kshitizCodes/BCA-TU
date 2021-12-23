@@ -59,7 +59,7 @@
 
 | List of Electives |
 |------------------|
-| :---: |                   
+|       :---:      |                   
 | Applied Psychology | 
 | Knowledge Engineering |
 | Geographical Information System | 
