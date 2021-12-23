@@ -40,7 +40,7 @@
 - [Mobile Programming] (https://www.itcollegenepal.com/wp-content/uploads/2021/05/CACS351-Mobile-Programming.pdf)
 - [Distributed System] (https://www.itcollegenepal.com/wp-content/uploads/2021/05/CACS352-Distributed-Systems.pdf)
 - [Applied Economics] (https://www.itcollegenepal.com/wp-content/uploads/2021/05/CAEC353-Applied-Economics.pdf)
-- [Advanced Java Programming](https://www.itcollegenepal.com/wp-content/uploads/2021/05/CACS354-Advanced-Java-Programming.pdf)
+- [Advanced Java Programming] (https://www.itcollegenepal.com/wp-content/uploads/2021/05/CACS354-Advanced-Java-Programming.pdf)
 - [Network Programming](https://www.itcollegenepal.com/wp-content/uploads/2021/05/CACS355-Network-Programming.pdf)
 - [Project II](https://www.itcollegenepal.com/wp-content/uploads/2021/05/CAPJ356-Project-II.pdf)
 
@@ -59,8 +59,8 @@
 
 | List of Electives |
 |------------------|
-| Applied Psychology | Knowledge Engineering |
-|  Geographical Information System | Advanced DotNet Technology  |
-| IT in Banking | Database Programming |
-| Hotel Information System | Database Administration |
-| Enterprise Resource Planning | Network Administration |
+| Applied Psychology | | Knowledge Engineering |
+|  Geographical Information System | | Advanced DotNet Technology  |
+| IT in Banking | | Database Programming |
+| Hotel Information System | | Database Administration |
+| Enterprise Resource Planning | | Network Administration |
