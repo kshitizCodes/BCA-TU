@@ -59,8 +59,13 @@
 
 | List of Electives |
 |------------------|
-| Applied Psychology | | Knowledge Engineering |
-|  Geographical Information System | | Advanced DotNet Technology  |
-| IT in Banking | | Database Programming |
-| Hotel Information System | | Database Administration |
-| Enterprise Resource Planning | | Network Administration |
+| Applied Psychology | 
+| Knowledge Engineering |
+|  Geographical Information System | 
+| Advanced DotNet Technology  |
+| IT in Banking | 
+| Database Programming |
+| Hotel Information System | 
+| Database Administration |
+| Enterprise Resource Planning | 
+| Network Administration |
