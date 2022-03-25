@@ -5,8 +5,8 @@
 - [Computer Fundamentals and Applications](https://www.itcollegenepal.com/wp-content/uploads/2019/02/Computer-Fundamentals-and-Applications-BCA-Syllabus-IT-College-Nepal.pdf)
 - [Society and Technology](https://www.itcollegenepal.com/wp-content/uploads/2019/02/Society-and-Technology-BCA-Syllabus-IT-College-Nepal.pdf)
 - [English I](https://www.itcollegenepal.com/wp-content/uploads/2019/02/English-I-BCA-Syllabus-IT-College-Nepal.pdf)
-- [Mathematics I]()
-- [Digital Logic]()
+- [Mathematics I](https://www.itcollegenepal.com/wp-content/uploads/2019/02/Mathematics-I-BCA-Syllabus-IT-College-Nepal.pdf)
+- [Digital Logic](https://www.itcollegenepal.com/wp-content/uploads/2019/02/Digital-Logic-BCA-Syllabus-IT-College-Nepal.pdf)
 ### Semester II
 - [C Programming](https://www.itcollegenepal.com/wp-content/uploads/2019/02/C-Programming-BCA-Syllabus-IT-College-Nepal.pdf)
 - [Financial Accounting](https://www.itcollegenepal.com/wp-content/uploads/2019/02/Financial-Accounting-BCA-Syllabus-IT-College-Nepal.pdf)
@@ -57,10 +57,10 @@
 - Elective III
 - Elective IV
 
-| List of Electives | |
-| ------------------ | ----------------- |               
-| Applied Psychology | Knowledge Engineering |
-| Geographical Information System | Advanced DotNet Technology  |
-| IT in Banking | Database Programming |
-| Hotel Information System | Database Administration |
-| Enterprise Resource Planning | Network Administration |
+| List of Electives               |                            |
+| ------------------------------- | -------------------------- |
+| Applied Psychology              | Knowledge Engineering      |
+| Geographical Information System | Advanced DotNet Technology |
+| IT in Banking                   | Database Programming       |
+| Hotel Information System        | Database Administration    |
+| Enterprise Resource Planning    | Network Administration     |
