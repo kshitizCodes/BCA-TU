@@ -98,4 +98,4 @@
 
  ### Will update as the
 - I'm supposed to be doing my assignment right now, but am doing this. 
-- Name 
+- Name of teachers will be added as new semester starts.
