@@ -29,7 +29,7 @@
 | ---------------------------------------- | ------------------ |
 | Data Structure and Algorithms            | Ganesh Ram Suwal   |
 | Probability and Statistics               | Suneeta Shrestha   |
-| System Analysis and Design               | Lamxi Prasad Yadav |
+| System Analysis and Design               | Laxmi Prasad Yadav |
 | Object Oriented Programming(OOP) in Java | Sugan Shakya       |
 | Web Technology                           | Amit Chapagain     |
 
